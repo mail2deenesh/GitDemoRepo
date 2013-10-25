@@ -1,0 +1,5 @@
+D:\GitDemo\BranchingDemo\BranchingDemo\bin\BranchingDemo.dll
+D:\GitDemo\BranchingDemo\BranchingDemo\bin\BranchingDemo.pdb
+D:\GitDemo\BranchingDemo\BranchingDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\GitDemo\BranchingDemo\BranchingDemo\obj\Debug\BranchingDemo.dll
+D:\GitDemo\BranchingDemo\BranchingDemo\obj\Debug\BranchingDemo.pdb
